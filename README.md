@@ -1,6 +1,6 @@
-# chat-app
+# kle90 frontend
 
-## Project setup
+## Setup
 ```
 npm install
 ```
